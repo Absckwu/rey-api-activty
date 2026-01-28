@@ -29,6 +29,7 @@ Returning 404 Not Found clearly informs the client that the requested resource d
 ---
 
 *** 4. Testing ***
-*(Paste a screenshot of a successful GET request here)*
+*(<img width="428" height="666" alt="Screenshot 2026-01-28 152342" src="https://github.com/user-attachments/assets/82f199a7-917f-4153-968b-7519d10fb2a5" />
+)*
 
 
